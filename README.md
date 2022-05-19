@@ -1,2 +1,2 @@
 # Flipkart-Clone
-HTML, CSS, JS
+HTML, CSS
